@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Home",
+      "path": "/"
+    },
+    {
+      "title": "About",
+      "path": "/about"
+    },
+    {
+      "title": "Achivement",
+      "path": "/services"
+    },
+    {
+      "title": "Course",
+      "path": "/carrier"
+    },
+    {
+      "title": "Contact Us",
+      "path": "/contact"
+    }
+  ]
+  
